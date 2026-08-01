@@ -22,6 +22,21 @@ public:
         int row = triangle.size();
         vector<vector<int>>dp(row,vector<int>(row,1e8));
 
-        return f(0,0,row,triangle,dp);
+        for(int i=row-1;i>=0;i--){
+            for(int j=i;j>=0;j--){
+                if(i == row-1){
+                    dp[i][j] = triangle[i][j];
+                    continue;
+                }
+
+                int justMax = dp[i+1][j];
+                int sideMax = dp[i+1][j+1];
+
+                int mini = min(justMax,sideMax);
+                dp[i][j] = mini + triangle[i][j] ;
+            }
+        }
+
+        return dp[0][0];
     }
 };
