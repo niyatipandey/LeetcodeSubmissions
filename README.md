@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -42,4 +44,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Sorting
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
