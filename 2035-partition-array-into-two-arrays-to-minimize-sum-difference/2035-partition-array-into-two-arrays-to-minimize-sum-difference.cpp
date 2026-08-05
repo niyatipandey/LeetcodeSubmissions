@@ -1,19 +1,19 @@
 class Solution {
 public:
-    void generate(int index,int count,int sum,vector<int>& arr,vector<vector<int>>& store){
-
-        if(index == arr.size()){
+    void generate(int idx, int count, int sum,vector<int>& arr,vector<vector<int>>&store){
+        if(idx == arr.size()){
             store[count].push_back(sum);
-            return;
+            return; 
         }
 
-        generate(index+1,count,sum,arr,store);
-        generate(index+1,count+1,sum+arr[index],arr,store);
-
+        generate(idx+1,count,sum,arr,store);
+        generate(idx+1,count+1,sum+arr[idx],arr,store);
     }
+
     int minimumDifference(vector<int>& nums) {
-        int n = nums.size()/2;
-        int totalSum=0;
+        int n = nums.size() /2;
+        int totalSum =0;
+
         for(int i=0;i<nums.size();i++){
             totalSum += nums[i];
         }
@@ -33,27 +33,29 @@ public:
 
         int ans = INT_MAX;
 
-        for(int k=0;k<=n;k++){
-            for(int leftVal : leftSum[k]){
-                auto &vec = rightSum[n-k];
+        for(int i=0;i<=n;i++){
+            for(int leftVal : leftSum[i]){
+                int target = (totalSum/2.0) - leftVal;
 
-                double target = (totalSum/2.0) - leftVal;
+                auto& vec = rightSum[n-i];
+
+                int requiredDiff = 0;
 
                 auto it = lower_bound(vec.begin(),vec.end(),target);
-                int chosenSum = 0;
 
                 if(it != vec.end()){
-                    chosenSum = leftVal + *it;
-                    ans = min(ans, abs(totalSum - 2*chosenSum));
+                    requiredDiff = abs(totalSum - 2*(*it + leftVal));
+                    ans = min(ans,requiredDiff);
                 }
                 if(it != vec.begin()){
                     auto prevIt = prev(it);
-                    chosenSum = leftVal + *prevIt;
-                    ans = min(ans,abs(totalSum - 2*chosenSum));
+                    requiredDiff = abs(totalSum - 2*(*prevIt + leftVal));
+                    ans = min(ans,requiredDiff);
                 }
             }
         }
-        return ans;
-    }
 
+        return ans;
+        
+    }
 };
