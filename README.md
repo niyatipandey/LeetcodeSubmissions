@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
