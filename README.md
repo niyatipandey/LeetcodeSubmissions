@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Combinatorics
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -59,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
