@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -163,4 +165,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/3477-fruits-into-baskets-ii) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
