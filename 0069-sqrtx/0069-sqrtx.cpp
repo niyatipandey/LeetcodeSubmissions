@@ -8,8 +8,8 @@ public:
         int right = x/2;
 
         while(left <= right){
-            long long mid = left + (right-left)/2;
-            long long sq = mid*mid;
+            int mid = left + (right-left)/2;
+            long long sq = (long long)mid*mid;
 
             if(sq == x){
                 return mid;
