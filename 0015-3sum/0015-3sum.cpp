@@ -1,41 +1,42 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>>ans;
-
         sort(nums.begin(),nums.end());
-        int j=0;
-        int k =0;
+        vector<vector<int>>res;
+        vector<int>ans;
 
-        for(int i=0;i<n-2;i++){
-            if( i > 0 && nums[i] == nums[i-1]){
+        for(int k =0 ; k < nums.size()-2;k++){
+            if(k>0 && nums[k] == nums[k-1]){
                 continue;
             }
-            j = i+1;
-            k=n-1;
-            while(j<k){
-                vector<int>arr;
-                if(nums[i] + nums[j] + nums[k] == 0){
-                    arr.push_back(nums[i]);
-                    arr.push_back(nums[j]);
-                    arr.push_back(nums[k]);
-                    ans.push_back(arr);
-                    while( j< k && nums[j] == nums[j+1]){
-                        j++;
+            int target = -(nums[k]);
+            int i = k+1;
+            int j = nums.size()-1;
+
+            while(i < j){
+                if(nums[i] + nums[j] == target){
+                    ans.push_back(nums[k]);
+                    ans.push_back(nums[i]);
+                    ans.push_back(nums[j]);
+                    res.push_back(ans);
+                    ans.clear();
+                    i++;
+                    j--;
+
+                    while(i<j && nums[i] == nums[i-1]){
+                        i++;
                     }
-                    while(j< k && nums[k] == nums[k-1]){
-                        k--;
+                    while(i < j && nums[j] == nums[j+1]){
+                        j--;
                     }
-                    j++;
-                    k--;
-                }else if(nums[i] + nums[j] + nums[k] > 0){
-                    k--;
-                }else if(nums[i] + nums[j] + nums[k] <0){
-                    j++;
+                }else if(nums[i] + nums[j] < target){
+                    i++;
+                }else{
+                    j--;
                 }
+                
             }
         }
-        return ans;
+        return res;
     }
 };
