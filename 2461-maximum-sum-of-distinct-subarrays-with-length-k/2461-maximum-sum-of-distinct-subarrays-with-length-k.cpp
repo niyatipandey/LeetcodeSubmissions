@@ -2,13 +2,7 @@ class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
         int n = nums.size();
-        int maxVal =INT_MIN;
-        for(int i=0;i<n;i++){
-            if(maxVal < nums[i]){
-                maxVal = nums[i];
-            }
-        }
-        vector<int>freq(maxVal+1,0);
+        unordered_map<int,int>freq;
         
         int i=0;
         int j=0;
