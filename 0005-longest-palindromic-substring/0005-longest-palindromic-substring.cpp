@@ -1,30 +1,29 @@
 class Solution {
 public:
-    string isPalindromeLen(string& s,int left,int right){
-        while(left>=0 && right<s.length() && s[left] == s[right]){
-            left--;
-            right++;
+    string func(string& s, int i, int j){
+        int n= s.length();
+        while(i>=0 && j < n && s[i] == s[j]){
+            i--;
+            j++;
         }
-        return s.substr(left+1,right-(left+1));
+        return s.substr(i+1,j-i-1);
     }
     string longestPalindrome(string s) {
         if(s.length() < 2){
             return s;
         }
-        string result ="";
-
+        string res ="";
         for(int i=0;i<s.length();i++){
+            string odd = func(s,i,i);
+            string even = func(s,i,i+1);
 
-            string oddStr = isPalindromeLen(s,i,i);
-            string evenStr = isPalindromeLen(s,i,i+1);
-
-            if(oddStr.length() > result.length()){
-                result = oddStr;
+            if(odd.length() > res.length()){
+                res = odd;
             }
-            if(evenStr.length() > result.length()){
-                result = evenStr;
+            if(even.length() > res.length()){
+                res = even;
             }
         }
-        return result;
+        return res;
     }
 };
