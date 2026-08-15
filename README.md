@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
 ## Segment Tree
 |  |
