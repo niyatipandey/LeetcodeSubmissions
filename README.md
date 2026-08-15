@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 ## Knapsack Problem
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
