@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3477-fruits-into-baskets-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/3477-fruits-into-baskets-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3477-fruits-into-baskets-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/3477-fruits-into-baskets-ii) |
 ## Bit Manipulation
