@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0509-fibonacci-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0485-max-consecutive-ones) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0875-koko-eating-bananas) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
