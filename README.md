@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0227-basic-calculator-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0120-triangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
