@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0647-palindromic-substrings) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Backtracking
 |  |
 | ------- |
