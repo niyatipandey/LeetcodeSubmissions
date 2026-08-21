@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Quicksort
 |  |
 | ------- |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -331,4 +334,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
