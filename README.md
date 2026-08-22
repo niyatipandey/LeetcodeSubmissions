@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0227-basic-calculator-ii) |
+| [0232-implement-queue-using-stacks](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
