@@ -10,7 +10,7 @@ public:
                 ans[st.top()] = nums[i%n];
                 st.pop();
             }
-            if(i<n){
+            if(i < n){
                 st.push(i);
             }
         }
