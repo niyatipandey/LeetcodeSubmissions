@@ -1,35 +1,33 @@
 class Solution {
 public:
     string removeDuplicateLetters(string s) {
-        unordered_map<char,int>mpp;
-        vector<bool>alreadyPresent(26,false);
-        for(char c : s){
-            mpp[c]++;
+       vector<int>freq(26,0);
+       stack<char>st;
+       vector<bool>visited(26,false);
+       for(int i=0;i<s.length();i++){
+          freq[s[i]-'a']++;
         }
-        stack<char>st;
-        string res ="";
 
-        for(char c : s){
-            mpp[c]--;
+        for(int i=0;i<s.length();i++){
+            freq[s[i]-'a']--;
             if(!st.empty()){
-                if(alreadyPresent[c-'a']){
+                if(visited[s[i]-'a']){
                     continue;
-                }else{
-                    while(!st.empty() && st.top() > c && mpp[st.top()] > 0){
-                        int x = st.top();
-                        st.pop();
-                        alreadyPresent[x-'a'] = false;
-                        
-                    }
-                st.push(c);
-                alreadyPresent[c-'a'] = true;
                 }
-                
+                while(!st.empty() && st.top() > s[i] && freq[st.top()-'a'] > 0){
+                    visited[st.top()-'a'] = false;
+                    st.pop();
+                }
+                if(!visited[s[i]-'a']){
+                    st.push(s[i]);
+                    visited[s[i]-'a'] = true;
+                }
             }else{
-                st.push(c);
-                alreadyPresent[c-'a']=true;
+                st.push(s[i]);
+                visited[s[i]-'a'] = true;
             }
         }
+        string res ="";
         while(!st.empty()){
             res += st.top();
             st.pop();
