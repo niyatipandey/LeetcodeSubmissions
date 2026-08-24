@@ -3,22 +3,18 @@ public:
     int scoreOfParentheses(string s) {
         stack<int>st;
         st.push(0);
-        int score =0;
-
         for(char c : s){
             if(c == '('){
                 st.push(0);
             }else{
-                int inner = st.top();
-                st.pop();
-
-                if(inner == 0){
-                    score =1;
+                if(st.top() == 0){
+                    st.pop();
+                    st.top() += 1;
                 }else{
-                    score = 2*inner;
+                    int x = st.top();
+                    st.pop();
+                    st.top() += 2*x;
                 }
-
-                st.top() += score;
             }
         }
         return st.top();
