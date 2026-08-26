@@ -12,9 +12,9 @@ public:
         }
 
         int right = totalPath(i,j+1,m,n,dp);
-        int left = totalPath(i+1,j,m,n,dp);
+        int down = totalPath(i+1,j,m,n,dp);
 
-        return dp[i][j] = right+ left;
+        return dp[i][j] = right+ down;
     }
     int uniquePaths(int m, int n) {
         vector<vector<int>>dp(m,vector<int>(n,-1));
