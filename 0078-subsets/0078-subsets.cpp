@@ -1,22 +1,22 @@
 class Solution {
 public:
-    void subsetFunc(vector<vector<int>>& ans,vector<int>& res,vector<int>& nums,int idx ){
-        if(idx == nums.size()){
-            ans.push_back(res);
+    void solve(vector<int>& nums,vector<vector<int>>&result,vector<int>& arr,int idx,int n){
+        if(idx == n){
+            result.push_back(arr);
             return;
         }
+        arr.push_back(nums[idx]);
+        solve(nums,result,arr,idx+1,n);
+        arr.pop_back();
         
-        res.push_back(nums[idx]);
-        subsetFunc(ans,res,nums,idx+1);
-        res.pop_back();
+        solve(nums,result,arr,idx+1,n);
         
-        subsetFunc(ans,res,nums,idx+1);
-
     }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>>ans;
-        vector<int>res;
-        subsetFunc(ans,res,nums,0);
-        return ans;
+        int n = nums.size();
+        vector<vector<int>>result;
+        vector<int>arr;
+        solve(nums,result,arr,0,n);
+        return result;
     }
 };
