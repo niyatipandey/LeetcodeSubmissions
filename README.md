@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0876-middle-of-the-linked-list) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -407,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
