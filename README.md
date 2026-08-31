@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 ## Knapsack Problem
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
 ## Segment Tree
 |  |
 | ------- |
