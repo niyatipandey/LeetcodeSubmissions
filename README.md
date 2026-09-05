@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0227-basic-calculator-ii) |
+| [0445-add-two-numbers-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0523-continuous-subarray-sum) |
 ## Dynamic Programming
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
