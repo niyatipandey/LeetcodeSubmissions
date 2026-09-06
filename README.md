@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Manacher
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 ## Bracket Sequences
@@ -459,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0148-sort-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
