@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0445-add-two-numbers-ii) |
@@ -590,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
