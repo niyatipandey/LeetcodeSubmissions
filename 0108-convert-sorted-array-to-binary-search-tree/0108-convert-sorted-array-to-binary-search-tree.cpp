@@ -11,22 +11,22 @@
  */
 class Solution {
 public:
-    TreeNode* bstarray(vector<int>&nums,int l,int r){
+    TreeNode* createBinaryTree(vector<int>& nums,int l,int r){
         if(l > r){
             return nullptr;
         }
         int mid = l + (r-l)/2;
-        TreeNode* node = new TreeNode(nums[mid]);
+        TreeNode* root = new TreeNode(nums[mid]);
 
-        node->left = bstarray(nums,l,mid-1);
-        node->right = bstarray(nums,mid+1,r);
+        root->left = createBinaryTree(nums,l,mid-1);
+        root->right = createBinaryTree(nums,mid+1,r);
 
-        return node;
+        return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
-        if(nums.size() == 0){
-            return nullptr;
-        }
-        return bstarray(nums,0,nums.size()-1);
+        int l =0;
+        int r = nums.size()-1;
+
+        return createBinaryTree(nums,l,r);
     }
 };
