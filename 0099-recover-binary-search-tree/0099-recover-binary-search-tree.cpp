@@ -18,17 +18,23 @@ public:
         if(!root){
             return;
         }
+
         inorder(root->left);
+
         if(prev != nullptr && prev->val > root->val){
-            if(first == nullptr){
+            if(!first){
                 first = prev;
             }
             second = root;
         }
         prev = root;
+
         inorder(root->right);
     }
     void recoverTree(TreeNode* root) {
+        if(!root){
+            return;
+        }
         inorder(root);
 
         int temp = first->val;
