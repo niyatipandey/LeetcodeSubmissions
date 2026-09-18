@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1004-max-consecutive-ones-iii) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2487-remove-nodes-from-linked-list) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
@@ -608,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Doubly-Linked List
 |  |
 | ------- |
