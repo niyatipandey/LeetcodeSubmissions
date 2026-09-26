@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
