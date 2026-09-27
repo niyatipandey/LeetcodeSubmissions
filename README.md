@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0647-palindromic-substrings) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0994-rotting-oranges) |
 | [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
