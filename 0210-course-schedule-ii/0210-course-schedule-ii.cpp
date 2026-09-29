@@ -38,9 +38,9 @@ public:
                 }
             }
         }
-        vector<int>ans;
+
         if(topo.size() < numCourses){
-            return ans;
+            return {};
         }
 
         return topo;
