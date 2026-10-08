@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0146-lru-cache) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0227-basic-calculator-ii) |
@@ -702,4 +705,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
