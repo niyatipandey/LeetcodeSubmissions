@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1020-number-of-enclaves](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1314-matrix-block-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1314-matrix-block-sum) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 ## Knapsack Problem
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Complete Knapsack
 |  |
 | ------- |
