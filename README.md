@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
+| [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0802-find-eventual-safe-states) |
