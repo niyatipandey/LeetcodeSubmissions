@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1463-cherry-pickup-ii](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -709,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0841-keys-and-rooms) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2360-longest-cycle-in-a-graph](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Coloring
 |  |
@@ -761,4 +764,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
