@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0735-asteroid-collision) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -609,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -695,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1020-number-of-enclaves) |
