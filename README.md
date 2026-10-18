@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0904-fruit-into-baskets) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0647-palindromic-substrings) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0856-score-of-parentheses) |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Manacher
 |  |
@@ -516,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -797,4 +804,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1584-min-cost-to-connect-all-points) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
