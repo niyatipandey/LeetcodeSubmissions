@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Pigeonhole Principle
 |  |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0993-cousins-in-binary-tree) |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0993-cousins-in-binary-tree) |
@@ -701,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Doubly-Linked List
 |  |
@@ -808,4 +813,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0692-top-k-frequent-words) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/niyatipandey/LeetcodeSubmissions/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
