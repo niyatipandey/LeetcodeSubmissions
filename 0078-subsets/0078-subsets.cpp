@@ -1,22 +1,22 @@
 class Solution {
 public:
-    void solve(vector<int>& nums,vector<vector<int>>&result,vector<int>& arr,int idx,int n){
+    void recurseSet(vector<vector<int>>& ans,int n ,vector<int>& nums,int idx,vector<int>&res){
         if(idx == n){
-            result.push_back(arr);
+            ans.push_back(res);
             return;
         }
-        arr.push_back(nums[idx]);
-        solve(nums,result,arr,idx+1,n);
-        arr.pop_back();
-        
-        solve(nums,result,arr,idx+1,n);
-        
+
+        res.push_back(nums[idx]);
+        recurseSet(ans,n,nums,idx+1,res);
+        res.pop_back();
+
+        recurseSet(ans,n,nums,idx+1,res);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>>result;
-        vector<int>arr;
-        solve(nums,result,arr,0,n);
-        return result;
+        vector<vector<int>>ans;
+        vector<int>res;
+        recurseSet(ans,n,nums,0,res);
+        return ans;
     }
 };
