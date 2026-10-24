@@ -1,20 +1,15 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int n = nums.size();
-        if(n == 1){
-            return 0;
-        }
-        int maxJump =0 ;
-        int count =0;
-        int currEnd = 0;
+        int count = 0;
+        int maxJump = 0;
+        int currIdx = 0;
+        for(int i=0;i<nums.size()-1;i++){
+            maxJump = max(maxJump , nums[i] + i);
 
-        for(int i=0;i<n-1;i++){
-            maxJump = max(maxJump , i + nums[i]);
-        
-            if(i == currEnd){
+            if(i == currIdx){
                 count++;
-                currEnd = maxJump;
+                currIdx = maxJump;
             }
         }
         return count;
