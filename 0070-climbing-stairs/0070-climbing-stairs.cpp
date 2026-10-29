@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int houseClimb(vector<int>&dp,int i,int n){
+    int stair(vector<int>&dp,int n,int i){
         if(i > n){
             return 0;
         }
@@ -10,13 +10,13 @@ public:
         if(dp[i] != -1){
             return dp[i];
         }
-        int oneStep = houseClimb(dp,i+1,n);
-        int twoStep = houseClimb(dp,i+2,n);
+        int oneStair = stair(dp,n,i+1);
+        int twoStair = stair(dp,n,i+2);
 
-        return dp[i] = oneStep + twoStep;
+        return dp[i] = oneStair + twoStair;
     }
     int climbStairs(int n) {
         vector<int>dp(n+1,-1);
-        return houseClimb(dp,0,n);
+        return stair(dp,n,0);
     }
 };
