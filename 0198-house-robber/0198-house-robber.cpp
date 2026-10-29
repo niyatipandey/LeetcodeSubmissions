@@ -1,24 +1,25 @@
 class Solution {
 public:
-    int robHouse(vector<int>& nums,int idx,vector<int>& dp){
-        if( idx == 0){
-            return dp[0] = nums[0];
+    int robHouse(vector<int>&nums,vector<int>&dp,int n,int i){
+        if(i > n){
+            return 0;
         }
-        if(idx == 1){
-            return dp[1] = max(nums[0],nums[1]);
+        if(i == n){
+            return 0;
         }
-        if(dp[idx] != -1){
-            return dp[idx];
+        if(dp[i] != -1){
+            return dp[i];
         }
 
-        int take = robHouse(nums,idx -2,dp) + nums[idx];
-        int notTake = robHouse(nums,idx-1,dp);
+        int take = robHouse(nums,dp,n,i+2) + nums[i];
+        int notTake = robHouse(nums,dp,n,i+1);
 
-        return dp[idx] = max(take,notTake);
+        return dp[i] = max(take,notTake);
     }
-
     int rob(vector<int>& nums) {
-        vector<int>dp(nums.size(),-1);
-        return robHouse(nums,nums.size()-1,dp);
+        int n = nums.size();
+        vector<int>dp(n+1,-1);
+
+        return robHouse(nums,dp,n,0);
     }
 };
