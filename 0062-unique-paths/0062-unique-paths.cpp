@@ -1,23 +1,23 @@
 class Solution {
 public:
-    int totalPath(int i,int j,int m,int n,vector<vector<int>>&dp){
-        if(i == m && j == n){
-            return 1;
-        }
-        if(i < 0 || i > m || j < 0 || j > n){
+    int func(int m,int n,int r,int c,vector<vector<int>>&dp){
+        if(r >= m || c >= n){
             return 0;
         }
-        if(dp[i][j] != -1){
-            return dp[i][j];
+        if(r == m-1 && c == n-1){
+            return 1;
+        }
+        if(dp[r][c] != -1){
+            return dp[r][c];
         }
 
-        int right = totalPath(i,j+1,m,n,dp);
-        int down = totalPath(i+1,j,m,n,dp);
+        int right = func(m,n,r,c+1,dp);
+        int down = func(m,n,r+1,c,dp);
 
-        return dp[i][j] = right+ down;
+        return dp[r][c] = right + down;
     }
     int uniquePaths(int m, int n) {
-        vector<vector<int>>dp(m,vector<int>(n,-1));
-        return totalPath(0,0,m-1,n-1,dp);
+        vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
+        return func(m,n,0,0,dp);
     }
 };
