@@ -1,23 +1,24 @@
 class Solution {
 public:
-    int func(int m,int n,int r,int c,vector<vector<int>>&dp){
-        if(r >= m || c >= n){
-            return 0;
-        }
-        if(r == m-1 && c == n-1){
+    int f(int m,int n,vector<vector<int>>&dp,int i,int j){
+        if(i == m-1 && j == n-1){
             return 1;
         }
-        if(dp[r][c] != -1){
-            return dp[r][c];
+        if(dp[i][j] != -1){
+            return dp[i][j];
         }
-
-        int right = func(m,n,r,c+1,dp);
-        int down = func(m,n,r+1,c,dp);
-
-        return dp[r][c] = right + down;
+        int bottom = 0;
+        int right = 0;
+        if(j < n){
+            right = f(m,n,dp,i,j+1);
+        }
+        if(i < m){
+            bottom = f(m,n,dp,i+1,j);
+        }
+        return dp[i][j] = right + bottom;
     }
     int uniquePaths(int m, int n) {
         vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
-        return func(m,n,0,0,dp);
+        return f(m,n,dp,0,0);
     }
 };
