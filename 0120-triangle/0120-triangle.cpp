@@ -1,42 +1,22 @@
 class Solution {
 public:
-    int f(int i,int j,int row,vector<vector<int>>& triangle,vector<vector<int>>& dp){
-        if(i <0 || i>row || j<0 || j>i){
-            return 1e8;
-        }
-        if(i == row-1){
-            return dp[i][j] = triangle[i][j];
-        }
-        if(dp[i][j] != 1e8){
-            return dp[i][j];
-        }
-        int justMax = f(i+1,j,row,triangle,dp);
-        int sideMax = f(i+1,j+1,row,triangle,dp);
-
-        int mini = min(justMax,sideMax) + triangle[i][j];
-
-        return dp[i][j] = mini;
-    }
-
     int minimumTotal(vector<vector<int>>& triangle) {
-        int row = triangle.size();
-        vector<vector<int>>dp(row,vector<int>(row,1e8));
-
-        for(int i=row-1;i>=0;i--){
-            for(int j=i;j>=0;j--){
-                if(i == row-1){
-                    dp[i][j] = triangle[i][j];
-                    continue;
-                }
-
-                int justMax = dp[i+1][j];
-                int sideMax = dp[i+1][j+1];
-
-                int mini = min(justMax,sideMax);
-                dp[i][j] = mini + triangle[i][j] ;
-            }
+        if(triangle.size() == 1){
+            return triangle[0][0];
         }
+        int n = triangle.size();
+        vector<int>dp = triangle[n-1];
 
-        return dp[0][0];
+        for(int i=n-2;i>=0;i--){
+            vector<int>curr(i+1);
+            for(int col = 0;col <= i; col++){
+                int first = dp[col];
+                int second = dp[col+1];
+
+                curr[col] = triangle[i][col] + min(first,second);
+            }
+            dp = move(curr);
+        }
+        return dp[0];
     }
 };
