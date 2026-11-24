@@ -1,34 +1,38 @@
 class Solution {
 public:
-    bool canPartition(vector<int>& nums) {
-        int n = nums.size();
-        int sum = 0;
-        for(int i=0;i<n;i++){
-            sum += nums[i];
-        }
-        if(sum % 2 != 0){
+    bool check(vector<int>& nums,int target,int n,int idx,int sum,vector<vector<int>>&dp){
+        if(sum > target){
             return false;
         }
-        int target = sum/2;
-        vector<vector<bool>>dp(n,vector<bool>(target+1,0));
-
-        for(int i=0;i<n;i++){
-            dp[i][0] = true;
-        }
-        if(nums[0] <= target){
-            dp[0][nums[0]]= true;
-        }
-
-        for(int i=1;i<n;i++){
-            for(int k = 1; k <= target; k++){
-                bool notTake = dp[i-1][k];
-                bool take = false;
-                if(nums[i] <= k){
-                    take = dp[i-1][k - nums[i]];
-                }
-                dp[i][k] = take || notTake;
+        if(idx == n){
+            if(target == sum){
+                return true;
             }
+            return false;
         }
-        return dp[n-1][target];
+        if(dp[idx][sum] != -1){
+            return dp[idx][sum];
+        }
+        sum += nums[idx];
+        int take = check(nums,target,n,idx+1,sum,dp);
+        sum -= nums[idx];
+        int notTake = check(nums,target,n,idx+1,sum,dp);
+
+        return dp[idx][sum] = take || notTake;
+    }
+
+    bool canPartition(vector<int>& nums) {
+        int target = 0;
+        int n = nums.size();
+        for(int i=0;i<n;i++){
+            target += nums[i];
+        }
+        vector<vector<int>>dp(n,vector<int>(target+1,-1));
+        int sum = 0;
+        if(target %2 != 0){
+            return false;
+        }
+
+        return check(nums,target/2,n,0,sum,dp);
     }
 };
