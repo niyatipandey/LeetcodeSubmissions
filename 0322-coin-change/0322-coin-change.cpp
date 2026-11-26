@@ -1,35 +1,31 @@
 class Solution {
 public:
+    int check(vector<int>& coins, int amount,int idx,vector<vector<int>>&dp){
+        if(amount == 0){
+            return 0;
+        }
+        if(idx == 0){
+            if(amount % coins[0] == 0){
+                return amount / coins[0];
+            }
+            return 1e9;
+        }
+        if(dp[idx][amount] != -1){
+            return dp[idx][amount];
+        }
+
+        int notTake = check(coins,amount,idx-1,dp);
+        int take = INT_MAX;
+        if(amount >= coins[idx]){
+            take = 1 + check(coins,amount-coins[idx],idx,dp);
+        }
+
+        return dp[idx][amount] = min(take,notTake);
+    }
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
         vector<vector<int>>dp(n,vector<int>(amount+1,-1));
-
-        for(int target = 0;target<=amount ; target++){
-            if(target % coins[0] == 0){
-                dp[0][target] = target/coins[0];
-            }else{
-                dp[0][target] = INT_MAX;
-            }
-        }
-
-        for(int i=1;i<n;i++){
-            for(int target = 0;target <= amount;target++){
-                int notTake = dp[i-1][target];
-                int take = INT_MAX;
-                if(coins[i] <= target){
-                    if (dp[i][target - coins[i]] != INT_MAX) {
-                        take = dp[i][target - coins[i]] + 1;
-                    }
-                }
-                dp[i][target] = min(take,notTake);
-            }
-        }
-
-        if(dp[n-1][amount] == INT_MAX){
-            return -1;
-        }
-
-        return dp[n-1][amount];
-
+        int ans =  check(coins,amount,n-1,dp);
+        return ans >= 1e9 ? -1 : ans;
     }
 };
